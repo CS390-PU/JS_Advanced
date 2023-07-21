@@ -14,4 +14,4 @@ function Person (firstName, lastName) {
 }
 
 let person = new Person ("Julie", "Sims");
-console.log (person.greeting ());
+person.greeting ();
