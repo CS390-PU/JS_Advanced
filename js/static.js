@@ -4,6 +4,10 @@ class MyString {
   }
 
   static countVowels (str) {
+
+  }
+
+  static countChar (str, ch) {
     
   }
 }
